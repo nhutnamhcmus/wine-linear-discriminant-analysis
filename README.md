@@ -10,7 +10,7 @@ Features
 Installation/ Open Project
 ------------
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/wine-linear-discriminant-analysis/blob/main/wine-linear-discriminant-analysis.ipynb) Open project with Google Colab 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nhutnamhcmus/wine-linear-discriminant-analysis/blob/main/notebook.ipynb) Open project with Google Colab 
 
 Contribute
 ----------
